@@ -162,7 +162,7 @@
 
     <section id="comprar">
       <h2>💰 Investimento</h2>
-      <p class="price">R$ 39,90</p>
+      <p class="price">R$ 34,99</p>
       <p>Acesso imediato ao curso completo + certificado.</p>
       <a href="#" class="cta">Comprar Agora</a>
     </section>
