@@ -90,7 +90,7 @@
   <p>Capacitação Profissional com Certificado – 10h de Carga Horária</p>
 
   <a 
-    href="https://pay.kiwify.com.br/RruAvfy"
+    href="https://pay.kiwify.com.br/r6BtRGO"
     class="cta"
     target="_blank"
   >
