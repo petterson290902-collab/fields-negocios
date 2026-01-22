@@ -86,11 +86,19 @@
 </head>
 <body>
 
-  <header>
-    <h1>Curso de Administração Básica</h1>
-    <p>Capacitação Profissional com Certificado – 10h de Carga Horária</p>
-    <a href="#comprar" class="cta">Quero me Capacitar Agora</a>
-  </header>
+<header>
+  <h1>Curso de Administração Básica</h1>
+  <p>Capacitação Profissional com Certificado – 10h de Carga Horária</p>
+
+  <a 
+    href="https://pay.kiwify.com.br/RruAvfy"
+    class="cta"
+    target="_blank"
+  >
+    Quero me Capacitar Agora
+  </a>
+</header>
+
 
   <div class="container">
 
