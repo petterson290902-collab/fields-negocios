@@ -86,7 +86,7 @@
 <body>
 
 <header>
-  <h1>Curso de Administração Básica</h1>
+  <h1> Administração Básica Fields </h1>
   <p>Capacitação Profissional com Certificado – 10h de Carga Horária</p>
 
   <a 
@@ -118,7 +118,7 @@
       <h2>🎯 Para quem é este curso?</h2>
       <ul class="benefits">
         <li>✔ Funcionários em treinamento ou adaptação</li>
-        <li>✔ Pessoas sem formação em administração</li>
+      
         <li>✔ Profissionais que buscam certificado para currículo</li>
         <li>✔ Pequenos empreendedores</li>
       </ul>
@@ -161,7 +161,7 @@
 
     <section id="comprar">
       <h2>💰 Investimento</h2>
-      <p class="price">R$ 34,99</p>
+      <p class="price">R$ 28,90 </p>
       <p>Acesso imediato ao curso completo + certificado.</p>
       <a href="#" class="cta">Comprar Agora</a>
     </section>
